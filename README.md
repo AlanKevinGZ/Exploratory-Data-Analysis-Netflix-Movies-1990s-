@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Netflix-Movies-1990s-
 
-## 📌 Description
+##  Description
 This project performs an **Exploratory Data Analysis (EDA)** on the Netflix catalog, focusing on **movies released during the 1990s**. The goal is to analyze **movie duration patterns and genre distribution** using Python and common data analysis libraries.
 
 ---
