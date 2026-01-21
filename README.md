@@ -35,9 +35,4 @@ This project performs an **Exploratory Data Analysis (EDA)** on the Netflix cata
 - Data visualization and interpretation
 - Writing clean, reproducible analysis code
 
----
-
-## Next Steps
-- Extend the analysis to other decades  
-- Compare duration trends across genres  
-- Incorporate additional statistical metrics and visualizations  
+ 
